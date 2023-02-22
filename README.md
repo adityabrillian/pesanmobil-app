@@ -22,14 +22,17 @@ password : 1234
 
 ## Laravel 9
 
-## Panduan Penggunaan Aplikas
+## Panduan Penggunaan Aplikasi
 - http://127.0.0.1:8000/
+- http://127.0.0.1:8000/register
 - http://127.0.0.1:8000/login
 email: admin@example.com
 password: 123
 - create pemesanan mobil
 - lalu pesan di http://127.0.0.1:8000/ (homepage)
 
-
+## Terimakasih sebelumnya sudah diberi kesempatan dalam mengerjakan technical test ini
+## Mohon maaf jika masih banyak sekali Soal yang masih belum terselesaikan 🙏🙏🙏
+## Karena izin memang sebelumnya saya sudah vakum selama 2 tahun tidak melakukan programming khususnya backend, tapi memang saya ingin mencoba kembali berkarir didunia ini, jadi banyak kendala waktu mengerjakannya. banyak perubahan terutama di laravel 9 dan package-package lainnya termasuk versi php,node, dll... 🙏🙏🙏
 
 
