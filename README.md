@@ -12,7 +12,24 @@
 email: admin@example.com
 password: 123
 
+##  MySQL 8.0
 sql database restore
 public/pesan_mobil.dump
+username: root
+password : 1234
+
+## PHP 8.1.16
+
+## Laravel 9
+
+## Panduan Penggunaan Aplikas
+- http://127.0.0.1:8000/
+- http://127.0.0.1:8000/login
+email: admin@example.com
+password: 123
+- create pemesanan mobil
+- lalu pesan di http://127.0.0.1:8000/ (homepage)
+
+
 
 
